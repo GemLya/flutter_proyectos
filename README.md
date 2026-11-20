@@ -40,7 +40,6 @@ VERDE
 
 <img width="245" height="32" alt="image" src="https://github.com/user-attachments/assets/b4bbd6de-276e-4bce-ba90-526b03cc3f56" />
 
-RONDA 6: ROJO Y VERDE
 
 <img width="556" height="55" alt="image" src="https://github.com/user-attachments/assets/9164e569-63e8-4d32-b672-bf7e79996fd1" />
 
